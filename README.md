@@ -20,7 +20,7 @@ https://mital2021.github.io/Password-Generator/
 
 # Screenshot of my application
 
-![Password Generator](image/Password-Generator.jpg)
+![](./assets/image/Password-Generator.jpg)
 
 
 ## Contribution
