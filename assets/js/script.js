@@ -49,7 +49,10 @@ function generatePassword() {
       passwordChar = passwordChar.concat(upperCase)
     }
 
+
+
 //Loop for random selection
+var randomPassword=[];
           
       for (var i = 0; i < passwordLength; i++) {
        var randomPassword = randomPassword + passwordChar[Math.floor(Math.random() * passwordChar.length)];
